@@ -1,0 +1,50 @@
+h1{
+Font-family:luminari;
+color:red;
+Font-size:100px;
+Padding:200px;
+Text-align:top;
+Text-shadow:2px 2px 4px black ;
+Margin-bottom:25px;
+Text-decoration:underline;
+}
+
+.today{
+Background-color:powderblue;
+Background-position:bottom right;
+Background-image: url("/Users/gokulben/Downloads/clss.jpg");
+Background-size:100%;
+Background-position:center;
+Border-style:solid;
+Border-width:20px;
+Border-color:red;
+Background-attachment:fixed;
+
+}
+P{
+Margin-left:500px;	
+Color:red;
+Text-align:center;
+Font-family:luminari;
+Font-size:50px;
+       
+}
+
+
+W3schools
+
+Css colors
+3types
+
+Css backgrounds 
+Color image repeat attachment
+
+Css borders 
+All sides and width
+Color
+
+Css margin
+4 margin
+
+Css text
+Color size alignment decoration facing shadow
